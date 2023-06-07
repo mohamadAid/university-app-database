@@ -1,0 +1,30 @@
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\bin\Debug\university_app.exe.config
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\bin\Debug\university_app.exe
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\bin\Debug\university_app.pdb
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\obj\Debug\university_app.csprojResolveAssemblyReference.cache
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\obj\Debug\university_app.Form1.resources
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\obj\Debug\university_app.Form2.resources
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\obj\Debug\university_app.Properties.Resources.resources
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\obj\Debug\university_app.csproj.GenerateResource.Cache
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\obj\Debug\university_app.exe
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\obj\Debug\university_app.pdb
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\obj\Debug\university_app.Form3.resources
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\obj\Debug\university_app.Form6.resources
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\obj\Debug\university_app.Form4.resources
+C:\Users\90531\Documents\Visual Studio 2015\Projects\university_app\university_app\obj\Debug\university_app.Form5.resources
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\bin\Debug\university_app.exe.config
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\bin\Debug\university_app.exe
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\bin\Debug\university_app.pdb
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\obj\Debug\university_app.csprojAssemblyReference.cache
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\obj\Debug\university_app.Form1.resources
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\obj\Debug\university_app.Form2.resources
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\obj\Debug\university_app.Form3.resources
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\obj\Debug\university_app.Form4.resources
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\obj\Debug\university_app.Form5.resources
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\obj\Debug\university_app.Form6.resources
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\obj\Debug\university_app.Properties.Resources.resources
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\obj\Debug\university_app.csproj.GenerateResource.cache
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\obj\Debug\university_app.csproj.CoreCompileInputs.cache
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\obj\Debug\university_app.exe
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\obj\Debug\university_app.pdb
+C:\Users\Eka-g\Downloads\university_app (2)\university_app\university_app\obj\Debug\university_app.Form7.resources
